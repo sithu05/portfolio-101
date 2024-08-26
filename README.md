@@ -22,6 +22,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More
 
+trying to learn the YouTube Tutorial
+
+- Course [Part 1](https://www.youtube.com/watch?v=IHL_r2otyw4)
+- Course [Part 2](https://www.youtube.com/watch?v=72OKuwYxWf8)
+
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
